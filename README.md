@@ -1,5 +1,6 @@
 - 👋 Hi, We'r @HUS-Program volunteers
 - 👀 We’r interested in means to decentralize decision about funding allocation of technogy orientation 
 - 🌱 We’r currently trying to develop light functional app for raise means all in awarness gamers & contributors about importance developing technologies for underwater habitats instead of exploit ressources from deep ocean...
-- 💞️ We'r look for collaborate with a variety of existing development for different application yet developed for other application we could adapted in our scope. 
+- 💞️ We'r looking to collaborate with a variety of existing development for different application yet developed for other application we could adapted in our scope. 
 - 📫 You can reach us on our contact link on our website humanunderwatersociety.org
+- You'r welcome on board doesn't matter the way you would like contribute, any help will be great value for this cause.
